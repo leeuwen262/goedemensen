@@ -1,0 +1,4 @@
+Dit bestand is toegevoegd vanaf de werklaptop om de GitHub-sync te testen.
+Datum: 9 februari 2026
+
+Als je dit ziet op je eigen laptop na een Pull, werkt de workflow!

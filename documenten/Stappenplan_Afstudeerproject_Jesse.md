@@ -78,9 +78,8 @@
   - Wat zou hen écht helpen?
 
 - [ ] **Interviews plannen**
-  - Minimaal 3-4 accountmanagers interviewen
+  - Minimaal 2 accountmanagers interviewen
   - Peter en Arthur interviewen over strategische visie
-  - Caroline over commerciële processen
   - Sessies van 45-60 min inplannen
 
 ## Week 2: Data verzameling starten & context verdiepen
